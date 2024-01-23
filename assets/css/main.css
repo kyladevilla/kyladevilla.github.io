@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 
-		background-image: url("images/orion.jpg"), -moz-linear-gradient(45deg, #86e376 15%, #5f4d93 85%); 
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #86e376 15%, #5f4d93 85%); 
 
 		/* background-image: url("orion.jpg"); */
 
