@@ -130,7 +130,6 @@ input, select, textarea {
 
 	/* body {
 		/*THIS CHANGES BACKGROUND COLOR OF MAIN PAGE */
-		/* background-image: url("images/orion.jpg"); */
 		/* background-color: #26b832; */
 		/* background-color: transparent; */
 		/* color: rgba(255, 255, 255, 0.65); */
@@ -2173,9 +2172,9 @@ input, select, textarea {
 			box-shadow: 0 0 0 1px #8cc9f0;
 		}
 
-	select {
+	/* select {
 		background-image: url("orion.jpg");
-	}
+	} */
 
 		select option {
 			color: #ffffff;
@@ -3560,7 +3559,7 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: url("orion.jpg");
+			/* background-image: url("orion.jpg"); */
 
 			/* background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
