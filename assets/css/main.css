@@ -99,10 +99,9 @@ input, select, textarea {
 	}
 
 	body {
-		background: url("images/nebula3.jpg") no-repeat fixed;
-		/* background-image: url("images/nebula3.jpg"); */
-		/* background-size: cover;  */
-		/* background-attachment: fixed; */
+		background-image: url("images/nebula3.jpg"); 
+		background-repeat: no-repeat; 
+		background-attachment: fixed;
 
 
 		/* background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #86e376 15%, #5f4d93 85%);  */
