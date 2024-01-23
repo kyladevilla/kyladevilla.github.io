@@ -122,8 +122,11 @@ input, select, textarea {
 /* Type */
 
 	body {
+		/*THIS CHANGES BACKGROUND COLOR OF MAIN PAGE */
+		/* background-color: #000000; */
+		background-color: transparent;
+
 		background-image: url("orion.jpg");
-		background-color: #000000;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
