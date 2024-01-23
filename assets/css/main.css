@@ -99,7 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		/* background: url('orion.jpg'), #2f0027; */
+
+		/* background: url('orion.jpg'), #2f0027; */ /* this made background totally white*/
 
 		/* background-image: url("orion.jpg"); */
 
