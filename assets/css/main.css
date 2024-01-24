@@ -3084,7 +3084,7 @@ input, select, textarea {
 
 /* Header */
 
-	.circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; width: 150px}
+	.circular--square {border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; width: 500px}
 
 	#header {
 		padding: 5em 5em 1em 5em ;
