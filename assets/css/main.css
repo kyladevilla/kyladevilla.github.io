@@ -3084,6 +3084,8 @@ input, select, textarea {
 
 /* Header */
 
+	.circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; }
+
 	#header {
 		padding: 5em 5em 1em 5em ;
 		text-align: center;
@@ -3127,12 +3129,12 @@ input, select, textarea {
 				-webkit-transition-delay: 0s;
 				-ms-transition-delay: 0s;
 				transition-delay: 0s;
-				display: block;
+				display: inline-block;
 				margin: 0 0 1.5em 0;
 			}
 
 				#header.alt .logo img {
-					display: block;
+					display: inline-block;
 					margin: 0 auto;
 					max-width: 75%;
 				}
