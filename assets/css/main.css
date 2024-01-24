@@ -169,10 +169,10 @@ input, select, textarea {
 		}
 
 	a {
-		-moz-transition: color 0.2s ease, border-bottom 0.2s ease;
-		-webkit-transition: color 0.2s ease, border-bottom 0.2s ease;
-		-ms-transition: color 0.2s ease, border-bottom 0.2s ease;
-		transition: color 0.2s ease, border-bottom 0.2s ease;
+		-moz-transition: color 0s ease, border-bottom 0s ease;
+		-webkit-transition: color 0s ease, border-bottom 0s ease;
+		-ms-transition: color 0s ease, border-bottom 0s ease;
+		transition: color 0s ease, border-bottom 0s ease;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 		color: inherit;
@@ -1848,10 +1848,10 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-moz-transition: background-color 0s ease-in-out, color 0s ease-in-out;
+		-webkit-transition: background-color 0s ease-in-out, color 0s ease-in-out;
+		-ms-transition: background-color 0s ease-in-out, color 0s ease-in-out;
+		transition: background-color 0s ease-in-out, color 0s ease-in-out;
 		border-radius: 8px;
 		border: 0;
 		cursor: pointer;
@@ -2231,10 +2231,10 @@ input, select, textarea {
 
 	.icon {
 		text-decoration: none;
-		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-moz-transition: background-color 0s ease-in-out, color 0s ease-in-out;
+		-webkit-transition: background-color 0s ease-in-out, color 0s ease-in-out;
+		-ms-transition: background-color 0s ease-in-out, color 0s ease-in-out;
+		transition: background-color 0s ease-in-out, color 0s ease-in-out;
 		border-bottom: none;
 		position: relative;
 	}
@@ -3119,10 +3119,10 @@ input, select, textarea {
 			}
 
 			#header.alt .logo {
-				-moz-transition: opacity 0s ease, -moz-transform 0.5s ease;
-				-webkit-transition: opacity 0s ease, -webkit-transform 0.5s ease;
-				-ms-transition: opacity 0s ease, -ms-transform 0.5s ease;
-				transition: opacity 0s ease, transform 0.5s ease;
+				-moz-transition: opacity 0s ease, -moz-transform 0s ease;
+				-webkit-transition: opacity 0s ease, -webkit-transform 0s ease;
+				-ms-transition: opacity 0s ease, -ms-transform 0s ease;
+				transition: opacity 0s ease, transform 0s ease;
 				-moz-transition-delay: 0s;
 				-webkit-transition-delay: 0s;
 				-ms-transition-delay: 0s;
@@ -3224,10 +3224,10 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		-moz-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		-webkit-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
+		-moz-transition: background-color 0s ease, border-top-left-radius 0s ease, border-top-right-radius 0s ease, padding 0s ease;
+		-webkit-transition: background-color 0s ease, border-top-left-radius 0s ease, border-top-right-radius 0s ease, padding 0s ease;
+		-ms-transition: background-color 0s ease, border-top-left-radius 0s ease, border-top-right-radius 0s ease, padding 0s ease;
+		transition: background-color 0s ease, border-top-left-radius 0s ease, border-top-right-radius 0s ease, padding 0s ease;
 		background-color: #ffffff;
 		color: #636363;
 		position: absolute;
@@ -3281,10 +3281,10 @@ input, select, textarea {
 		}
 
 			#nav ul li {
-				-moz-transition: margin 0.2s ease;
-				-webkit-transition: margin 0.2s ease;
-				-ms-transition: margin 0.2s ease;
-				transition: margin 0.2s ease;
+				-moz-transition: margin 0s ease;
+				-webkit-transition: margin 0s ease;
+				-ms-transition: margin 0s ease;
+				transition: margin 0s ease;
 				display: inline-block;
 				margin: 0 0.35em;
 				padding: 0;
@@ -3292,10 +3292,10 @@ input, select, textarea {
 			}
 
 				#nav ul li a {
-					-moz-transition: font-size 0.2s ease;
-					-webkit-transition: font-size 0.2s ease;
-					-ms-transition: font-size 0.2s ease;
-					transition: font-size 0.2s ease;
+					-moz-transition: font-size 0s ease;
+					-webkit-transition: font-size 0s ease;
+					-ms-transition: font-size 0s ease;
+					transition: font-size 0s ease;
 					display: inline-block;
 					height: 2.25em;
 					line-height: 2.25em;
