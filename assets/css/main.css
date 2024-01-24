@@ -2658,7 +2658,7 @@ input, select, textarea {
 		}
 
 			header.major h2:after {
-				display: block;
+				display: inline-block;
 				content: '';
 				width: 3.25em;
 				height: 2px;
@@ -2705,7 +2705,7 @@ input, select, textarea {
 			}
 
 				header.major p br {
-					display: none;
+					display: inline-block;
 				}
 
 		footer.major {
